@@ -1,2 +1,4 @@
 # fuzzy-set-operations-and-membership-functions
-implementations of 5 membership functions and all the fuzzy set operations by using minimum of libraries.
+
+Solutions to the questions contained in the file 'soft computing lab mannual.pdf' as part of soft coputing lab work, a course during my master's.
+The solutions are well documented in the IPython ntebook.
